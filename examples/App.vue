@@ -1,14 +1,14 @@
 <template>
   <div id="app">
     <mainHeader></mainHeader>
-    <div class="container" v-if="isIndex">
+    <div class="container" v-show="isIndex">
       <sideNav class="nav"></sideNav>
       <router-view class="view"></router-view>
       <div class="demo">
         <iframe src="./demo.html" id="xview_demo" name="xviewDemo"></iframe>
       </div>
     </div>
-    <router-view class="page" v-else></router-view>
+    <router-view class="page" v-show="!isIndex"></router-view>
   </div>
 </template>
 
@@ -33,8 +33,10 @@
     mounted () {
       window.onload = () => {
         this.iframe = document.getElementById('xview_demo')
-        this.iframe.contentWindow.onload = () => {
-          this.iframe.contentWindow.$docApp.$router.push(this.$route.path)
+        if (this.iframe) {
+          this.iframe.contentWindow.onload = () => {
+            this.iframe.contentWindow.$docApp.$router.push(this.$route.path)
+          }
         }
       }
     },
