@@ -10,7 +10,7 @@
 # xview
 
 `xview` 是一款基于 `Vue.js 2.0` 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品
-//[演示地址](https://a7866443121.github.io/xview.github.com)
+//[演示地址](https://a7866443121.github.io/vue_xview_mobile/index.html)
 
 <p align="center">
   <a href="https://github.com/feross/standard">
