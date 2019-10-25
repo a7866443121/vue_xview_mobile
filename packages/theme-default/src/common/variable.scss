@@ -1,0 +1,102 @@
+//字体定义规范
+    $fs-big-x: 22px;
+    $fs-big: 18px;
+    $fs-big-s: 16px;
+    $fs-normal-x: 15px;
+    $fs-normal: 14px;
+    $fs-normal-s: 13px;
+    $fs-small-x: 12px;
+    $fs-small: 11px;
+    $fs-small-s: 10px;
+
+    // 颜色定义规范
+    //红
+    $color-danger: #ff6666;
+    //更深红
+    $color-danger1: #ff3333;
+    //更深红
+    $color-danger2: #ff0000;
+    //蓝, 
+    $color-primary: #1E88F5;
+    //浅蓝
+    $color-primary1: #50bfff;
+    //深蓝
+    $color-primary2: #0066ff;
+    
+    //浅灰
+    $color-gray: #e2e6ea;
+    //更浅的灰色
+    $color-gray1: #F5F5F5;
+    //更更浅的灰色
+    $color-gray2: #F8F8F8;
+    
+    //橙色
+    $color-warning1: #F8800A;
+    //更浅的橙色
+    $color-warning: #f7ba2a;
+    
+    //浅绿色
+    $color-success2:#98FB98;
+    //绿色
+    $color-success: #33cc33;
+    //更深的绿色
+    $color-success1: #339933;
+    
+    //边框色(灰色)
+    $color-border: #E0E5EE;
+    $color-border-1: #D5D5D5;
+    $color-border-2: #CCCCCC;
+    //
+    $color-border-focus: #E0E5EE;
+    
+    $color-white: #FFF;
+    $color-black: #000;
+    // d表示更深，s表示更浅;
+    // $color-3-d: #000;
+    $color-3: #333;
+    $color-3-s: #474747;
+    $color-6: #666;
+    $color-9: #999;
+
+    // 模态层背景色
+    $color-mask: rgba(0,0,0,0.6);
+    
+    
+    // 边距
+    $edge-popup: 15px;
+    $edge-x: 15px;
+    $edge: 10px;
+
+// 高度定义规范
+    // 底部菜单、导航、报表合计
+    $h-1: 49px;
+    $h-2: 44px;
+    $h-3: 40px;
+    $h-4: 36px;
+    $h-5: 32px;
+    $h-6: 28px;
+
+    // 分隔区域高度
+    $void-x: 9px;
+    $void: 9px;
+    $void-s: 5px;
+
+
+// 圆角
+    $border-radius-big: 12px;
+    $border-radius-normal: 5px;
+
+// 动画相关
+    // 动画持继时长
+    $duration-x: 0.3s;
+    $duration: 0.3s;
+    // $duration: 20s;
+    $duration-s: 0.15s;
+    // 动画的过渡类型
+    // linear： 线性过渡。等同于贝塞尔曲线(0.0, 0.0, 1.0, 1.0)
+    // ease： 平滑过渡。等同于贝塞尔曲线(0.25, 0.1, 0.25, 1.0)
+    // ease-in： 由慢到快。等同于贝塞尔曲线(0.42, 0, 1.0, 1.0)
+    // ease-out： 由快到慢。等同于贝塞尔曲线(0, 0, 0.58, 1.0)
+    // ease-in-out： 由慢到快再到慢。等同于贝塞尔曲线(0.42, 0, 0.58, 1.0)
+    $timing: ease;
+

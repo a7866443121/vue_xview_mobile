@@ -1,0 +1,205 @@
+@import "./common/variable.scss";
+@import "./common/mixin.scss";
+.x-btn {
+    display: inline-block;
+    white-space: nowrap;
+    cursor: pointer;
+    background-color: $color-white;
+    @include borderBase(1px, solid, $color-border);
+    color: $color-3;
+    -webkit-appearance: none;
+    text-align: center;
+    box-sizing: border-box;
+    outline: none;
+    margin: 0;
+    padding: 8px 14px;
+    transition: background-color .5s, border 0.5s, color 0.5s;
+    font-size: $fs-small-x;
+    vertical-align: middle;
+    &.is-disabled {
+        cursor: not-allowed;
+        opacity: 0.6;
+    }
+    &.is-radius {
+        @include borderRadius($border-radius-normal);
+    }
+    &.is-round {
+        @include borderRadius(20px);
+    }
+    &.is-circle{
+        @include borderRadius(50%);
+        padding: 8px;   
+    }
+    &:hover {
+        background-color: $color-gray;
+        @include borderBase(1px, solid, $color-gray * 0.9);
+    }
+    &:active {
+        background-color: $color-gray * 0.8;
+        @include borderBase(1px, solid, $color-gray * 0.8);
+    }
+    //实体按钮
+    &.x-btn-plain {
+        background-color: $color-gray;
+        color: $color-3;
+        @include borderBase(1px, solid, $color-gray);
+        &:hover {
+            background-color: $color-gray * 0.9;
+            @include borderBase(1px, solid, $color-gray * 0.9);
+        }
+        &:active {
+            background-color: $color-gray * 0.8;
+            @include borderBase(1px, solid, $color-gray * 0.8);
+        }
+    }
+    &.x-btn-primary {
+        background-color: $color-primary;
+        color: $color-white;
+        @include borderBase(1px, solid, $color-primary);
+        &:hover {
+            background-color: $color-primary * 0.9;
+            @include borderBase(1px, solid, $color-primary * 0.9);
+        }
+        &:active {
+            background-color: $color-primary * 0.8;
+            @include borderBase(1px, solid, $color-primary * 0.8);
+        }
+    }
+    &.x-btn-success {
+        background-color: $color-success;
+        color: $color-white;
+        @include borderBase(1px, solid, $color-success);
+        &:hover {
+            background-color: $color-success * 0.9;
+            @include borderBase(1px, solid, $color-success * 0.9);
+        }
+        &:active {
+            background-color: $color-success * 0.8;
+            @include borderBase(1px, solid, $color-success * 0.8);
+        }
+    }
+    &.x-btn-info {
+        background-color: $color-primary1;
+        color: $color-white;
+        @include borderBase(1px, solid, $color-primary1);
+        &:hover {
+            background-color: $color-primary1 * 0.9;
+            @include borderBase(1px, solid, $color-primary1 * 0.9);
+        }
+        &:active {
+            background-color: $color-primary1 * 0.8;
+            @include borderBase(1px, solid, $color-primary1 * 0.8);
+        }
+    }
+    &.x-btn-warning {
+        background-color: $color-warning;
+        color: $color-white;
+        @include borderBase(1px, solid, $color-warning);
+        &:hover {
+            background-color: $color-warning * 0.9;
+            @include borderBase(1px, solid, $color-warning * 0.9);
+        }
+        &:active {
+            background-color: $color-warning * 0.8;
+            @include borderBase(1px, solid, $color-warning * 0.8);
+        }
+    }
+    &.x-btn-danger {
+        background-color: $color-danger;
+        color: $color-white;
+        @include borderBase(1px, solid, $color-danger);
+        &:hover {
+            background-color: $color-danger * 0.9;
+            @include borderBase(1px, solid, $color-danger * 0.9);
+        }
+        &:active {
+            background-color: $color-danger * 0.8;
+            @include borderBase(1px, solid, $color-danger * 0.8);
+        }
+    }
+    //线条按钮
+    &.x-btn-plain-outline {
+        color: $color-gray * 0.9;
+        @include borderBase(1px, solid, $color-gray * 0.9);
+        &:hover {
+            background-color: $color-gray * 0.9;
+            @include borderBase(1px, solid, $color-gray * 0.9);
+            color: $color-white;
+        }
+        &:active {
+            background-color: $color-gray * 0.8;
+            @include borderBase(1px, solid, $color-gray * 0.8);
+            color: $color-white;
+        }
+    }
+    &.x-btn-primary-outline {
+        color: $color-primary;
+        @include borderBase(1px, solid, $color-primary);
+        &:hover {
+            background-color: $color-primary;
+            @include borderBase(1px, solid, $color-primary);
+            color: $color-white;
+        }
+        &:active {
+            background-color: $color-primary * 0.9;
+            @include borderBase(1px, solid, $color-primary * 0.9);
+            color: $color-white;
+        }
+    }
+    &.x-btn-success-outline {
+        color: $color-success;
+        @include borderBase(1px, solid, $color-success);
+        &:hover {
+            background-color: $color-success;
+            @include borderBase(1px, solid, $color-success);
+            color: $color-white;
+        }
+        &:active {
+            background-color: $color-success * 0.9;
+            @include borderBase(1px, solid, $color-success * 0.9);
+            color: $color-white;
+        }
+    }
+    &.x-btn-info-outline {
+        color: $color-primary1;
+        @include borderBase(1px, solid, $color-primary1);
+        &:hover {
+            background-color: $color-primary1;
+            @include borderBase(1px, solid, $color-primary1);
+            color: $color-white;
+        }
+        &:active {
+            background-color: $color-primary1 * 0.9;
+            @include borderBase(1px, solid, $color-primary1 * 0.9);
+            color: $color-white;
+        }
+    }
+    &.x-btn-warning-outline {
+        color: $color-warning;
+        @include borderBase(1px, solid, $color-warning);
+        &:hover {
+            background-color: $color-warning;
+            @include borderBase(1px, solid, $color-warning);
+            color: $color-white;
+        }
+        &:active {
+            background-color: $color-warning * 0.9;
+            @include borderBase(1px, solid, $color-warning * 0.9);
+            color: $color-white;
+        }
+    }
+    &.x-btn-danger-outline {
+        color: $color-danger;
+        @include borderBase(1px, solid, $color-danger);
+        &:hover {
+            background-color: $color-danger;
+            @include borderBase(1px, solid, $color-danger);
+            color: $color-white;
+        }
+        &:active {
+            background-color: $color-danger * 0.9;
+            @include borderBase(1px, solid, $color-danger * 0.9);
+            color: $color-white;
+        }
+    }   
+}

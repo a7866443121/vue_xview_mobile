@@ -1,0 +1,1 @@
+.x-zoom-in-center-enter-active,.x-zoom-in-center-leave-active{transition:all .3s cubic-bezier(.55,0,.1,1)}.x-zoom-in-center-enter,.x-zoom-in-center-leave-active{opacity:0;transform:scaleX(0)}.x-fade-enter-active,.x-fade-leave-active{transition:opacity .5s}.x-fade-enter,.x-fade-leave-to{opacity:0}

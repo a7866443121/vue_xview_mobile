@@ -1,0 +1,2595 @@
+[
+	{
+		"id": "8b6e0caa-5163-4404-acf5-daab95df6745",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "917",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "6a4f3a2e-00ec-4526-b657-8613aa710146",
+				"name": "西老师",
+				"sex": 2,
+				"serial": "E0000167",
+				"status": 1,
+				"departid": "8b6e0caa-5163-4404-acf5-daab95df6745",
+				"pinyin": "XLS",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201809/d3ae7a00f18d40ddaabd6717c351ca11.png"
+			}
+		]
+	}, {
+		"id": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "Alipapa Group Senior Finance Director School",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "1333333333333",
+		"leader": "守门人",
+		"address": "长沙市岳麓区",
+		"subemps": [
+			{
+				"id": "5ea45170-2b4c-4d53-96b4-2a3d72b98f2b",
+				"name": "迈阿密凯尔特人",
+				"sex": 1,
+				"serial": "E0000150",
+				"status": 1,
+				"departid": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+				"pinyin": "MAMKETR",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "b4f3c0d4-e9af-4456-b6c8-5face8b948b2",
+				"name": "周不忍",
+				"sex": 1,
+				"serial": "E0000036",
+				"status": 1,
+				"departid": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+				"pinyin": "ZBR",
+				"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+			}, {
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "f34faa56-1c28-45b1-9a1e-85cd5c4d9be4",
+				"name": "元蓊",
+				"sex": 1,
+				"serial": "E0000042",
+				"status": 1,
+				"departid": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+				"pinyin": "YW",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "a1b066b5-66db-45c7-b472-8a24fbe48d65",
+				"name": "3",
+				"sex": 2,
+				"serial": "E0000133",
+				"status": 1,
+				"departid": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+				"pinyin": "3",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "58f47dfe-68cd-495e-87b1-8fc4f81e574e",
+				"name": "cy测试1",
+				"sex": 1,
+				"serial": "E0000117",
+				"status": 1,
+				"departid": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+				"pinyin": "cyCS1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "473242a8-00a7-41e5-a8d4-df223a35a015",
+				"name": "员工",
+				"sex": 1,
+				"serial": "E0000176",
+				"status": 1,
+				"departid": "9505b2c6-52e7-4798-ae46-93ed567a3ed2",
+				"pinyin": "YG",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "A校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "0978a5fa-1f07-4671-b66a-4633ba892da7",
+				"parentid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"level": 2,
+				"name": "A1部门",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "d38f3437-fe04-4dc0-a1ac-14ccbd8263c0",
+						"name": "4",
+						"sex": 1,
+						"serial": "E0000127",
+						"status": 1,
+						"departid": "0978a5fa-1f07-4671-b66a-4633ba892da7",
+						"pinyin": "4",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}, {
+						"id": "83f29a4f-9021-4962-96a6-1b6375cbf865",
+						"name": "A校区部门",
+						"sex": 1,
+						"serial": "E0000138",
+						"status": 1,
+						"departid": "0978a5fa-1f07-4671-b66a-4633ba892da7",
+						"pinyin": "AJOBM",
+						"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+					}, {
+						"id": "d5baac57-48d4-4c62-b5a3-4d221ed1ba07",
+						"name": "A部门",
+						"sex": 1,
+						"serial": "E0000137",
+						"status": 1,
+						"departid": "0978a5fa-1f07-4671-b66a-4633ba892da7",
+						"pinyin": "ABM",
+						"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+					}, {
+						"id": "21465d91-b48d-4f24-9c4a-78856d1c4536",
+						"name": "改名啦",
+						"sex": 2,
+						"serial": "E0000056",
+						"status": 1,
+						"departid": "0978a5fa-1f07-4671-b66a-4633ba892da7",
+						"pinyin": "GML",
+						"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201808/b08b7297504743c489adf85ff566e050.png"
+					}, {
+						"id": "bda993b2-8acc-4a44-afd1-7b16af4c6860",
+						"name": "石宇",
+						"sex": 1,
+						"serial": "E0000145",
+						"status": 1,
+						"departid": "0978a5fa-1f07-4671-b66a-4633ba892da7",
+						"pinyin": "DY",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}, {
+				"id": "c8f6c9d4-86b6-4b73-8d99-1134e147c640",
+				"parentid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"level": 2,
+				"name": "A2部门",
+				"iscampus": false,
+				"subdeparts": [
+					{
+						"id": "e395ef1e-7a1e-425f-ae0a-0f0bbc50b2c5",
+						"parentid": "c8f6c9d4-86b6-4b73-8d99-1134e147c640",
+						"level": 3,
+						"name": "111",
+						"iscampus": false,
+						"subdeparts": [],
+						"issub": false,
+						"tel": "",
+						"leader": "",
+						"address": "",
+						"subemps": []
+					}
+				],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "47f3fa78-ebbc-4d99-a24e-a9e0366d34da",
+						"name": "A2部门",
+						"sex": 1,
+						"serial": "E0000139",
+						"status": 1,
+						"departid": "c8f6c9d4-86b6-4b73-8d99-1134e147c640",
+						"pinyin": "A2BM",
+						"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+					}
+				]
+			}, {
+				"id": "0bd15eeb-79e6-46a9-9bf5-e5b66e34e8e4",
+				"parentid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"level": 2,
+				"name": "我",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "d6db1674-f9c1-4665-9a32-004b356172ef",
+				"name": "A校区",
+				"sex": 1,
+				"serial": "E0000136",
+				"status": 1,
+				"departid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"pinyin": "AJO",
+				"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+			}, {
+				"id": "83f29a4f-9021-4962-96a6-1b6375cbf865",
+				"name": "A校区部门",
+				"sex": 1,
+				"serial": "E0000138",
+				"status": 1,
+				"departid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"pinyin": "AJOBM",
+				"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+			}, {
+				"id": "3b51ca90-c52c-44b9-b2dd-31e9d6ca643f",
+				"name": "属于校区",
+				"sex": 1,
+				"serial": "E0000062",
+				"status": 1,
+				"departid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"pinyin": "SYJO",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "58f47dfe-68cd-495e-87b1-8fc4f81e574e",
+				"name": "cy测试1",
+				"sex": 1,
+				"serial": "E0000117",
+				"status": 1,
+				"departid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"pinyin": "cyCS1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "036ca163-0353-4dc1-8484-9c2f88eb36cf",
+				"name": "彭彭单独",
+				"sex": 1,
+				"serial": "E0000164",
+				"status": 1,
+				"departid": "ab3b0edb-96ea-48e1-885c-9dda92f09d36",
+				"pinyin": "PPCD",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "6537f0ce-60eb-43f2-a3f3-bb4482fba892",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "a优化测试，勿动",
+		"iscampus": false,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "08ea8856-9919-44f5-bb9d-50cd82def5c6",
+				"name": "7777",
+				"sex": 2,
+				"serial": "E0000166",
+				"status": 0,
+				"departid": "6537f0ce-60eb-43f2-a3f3-bb4482fba892",
+				"pinyin": "7777",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "5e695269-915d-49ef-a245-2b46e50a786d",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "dddd",
+		"iscampus": false,
+		"subdeparts": [
+			{
+				"id": "8a74c392-fbf1-44f5-ae9d-2402af9d4c8e",
+				"parentid": "5e695269-915d-49ef-a245-2b46e50a786d",
+				"level": 2,
+				"name": "2",
+				"iscampus": true,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年低矮的年",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "d81da21e-8e4a-4b01-aa2d-98c08cc76116",
+				"name": "111",
+				"sex": 1,
+				"serial": "E0000158",
+				"status": 1,
+				"departid": "5e695269-915d-49ef-a245-2b46e50a786d",
+				"pinyin": "111",
+				"photo": "//thirdwx.qlogo.cn/mmopen/7j4u4oZvz2rD5Rq40gx96ZzWMApFYomyHCicqycnVKkibvrLkEWibTAiaMDRsicibeu74ROe3GFIuAQU9xkArTXYbssb4papZlgMvP/132"
+			}
+		]
+	}, {
+		"id": "0fb47bf1-1fec-4d84-a90b-52b60d356620",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "new school test",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "b6027bbb-421f-4ba4-a315-0e6caa7b42b1",
+				"parentid": "0fb47bf1-1fec-4d84-a90b-52b60d356620",
+				"level": 2,
+				"name": "市场部",
+				"iscampus": false,
+				"subdeparts": [
+					{
+						"id": "f94e6be0-6209-4cbc-823c-ddc58488ebd4",
+						"parentid": "b6027bbb-421f-4ba4-a315-0e6caa7b42b1",
+						"level": 3,
+						"name": "陆晨部门",
+						"iscampus": false,
+						"subdeparts": [
+							{
+								"id": "c032081c-1e24-44cb-9343-501268e55988",
+								"parentid": "f94e6be0-6209-4cbc-823c-ddc58488ebd4",
+								"level": 4,
+								"name": "我问问",
+								"iscampus": false,
+								"subdeparts": [
+									{
+										"id": "06b1b3d4-e822-4856-8386-703b55aeed98",
+										"parentid": "c032081c-1e24-44cb-9343-501268e55988",
+										"level": 5,
+										"name": "11111111",
+										"iscampus": false,
+										"subdeparts": [],
+										"issub": false,
+										"tel": "",
+										"leader": "",
+										"address": "",
+										"subemps": [
+											{
+												"id": "805a8d83-1482-44a4-b394-b90761eff0c8",
+												"name": "四级部门",
+												"sex": 1,
+												"serial": "E0000140",
+												"status": 1,
+												"departid": "06b1b3d4-e822-4856-8386-703b55aeed98",
+												"pinyin": "SJBM",
+												"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+											}
+										]
+									}, {
+										"id": "384e29b3-6b26-40e2-a8a6-7122f59ffa6f",
+										"parentid": "c032081c-1e24-44cb-9343-501268e55988",
+										"level": 5,
+										"name": "2222222222",
+										"iscampus": false,
+										"subdeparts": [],
+										"issub": false,
+										"tel": "",
+										"leader": "",
+										"address": "",
+										"subemps": []
+									}
+								],
+								"issub": false,
+								"tel": "",
+								"leader": "",
+								"address": "",
+								"subemps": []
+							}
+						],
+						"issub": false,
+						"tel": "",
+						"leader": "",
+						"address": "",
+						"subemps": [
+							{
+								"id": "1d137582-2c58-458f-b154-dcfff3a1799d",
+								"name": "二级部门",
+								"sex": 1,
+								"serial": "E0000141",
+								"status": 1,
+								"departid": "f94e6be0-6209-4cbc-823c-ddc58488ebd4",
+								"pinyin": "EJBM",
+								"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+							}
+						]
+					}
+				],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "2aa07c91-d47f-475a-a5ed-d47abbffda57",
+						"name": "庄碧",
+						"sex": 2,
+						"serial": "E0000047",
+						"status": 1,
+						"departid": "b6027bbb-421f-4ba4-a315-0e6caa7b42b1",
+						"pinyin": "ZB",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "0a7eb828-8c42-49cc-91de-05c43e1786f4",
+				"name": "ddd",
+				"sex": 2,
+				"serial": "E0000134",
+				"status": 1,
+				"departid": "0fb47bf1-1fec-4d84-a90b-52b60d356620",
+				"pinyin": "ddd",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "0fb47bf1-1fec-4d84-a90b-52b60d356620",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "3d73870f-40fb-40e9-8d86-da4de1db2a4e",
+				"name": "新员工",
+				"sex": 1,
+				"serial": "E0000049",
+				"status": 1,
+				"departid": "0fb47bf1-1fec-4d84-a90b-52b60d356620",
+				"pinyin": "XYG",
+				"photo": "//thirdwx.qlogo.cn/mmopen/Q3auHgzwzM4dDRXicFE1axAQrhnbFQQ1WZcmzRlPavjXQqEC5oMeUiaCiazZRcez4qBfmqiacY04qkv5gy0iakWfOgwGlgyJlPrqvSYepNfWUlOI/132"
+			}
+		]
+	}, {
+		"id": "275b7d25-e849-43bf-b3e3-45fcb20a90c6",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "pm1学校",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "c971cdfa-7e7d-4ae1-b574-10adb108e538",
+				"name": "22",
+				"sex": 1,
+				"serial": "E52",
+				"status": 1,
+				"departid": "275b7d25-e849-43bf-b3e3-45fcb20a90c6",
+				"pinyin": "22",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "c400e7ef-c1c7-4615-8ef3-00e44e2961b0",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM部门测试",
+		"iscampus": false,
+		"subdeparts": [
+			{
+				"id": "cc4612d4-b335-4c3e-bbd5-bb1733829bdb",
+				"parentid": "c400e7ef-c1c7-4615-8ef3-00e44e2961b0",
+				"level": 2,
+				"name": "test",
+				"iscampus": true,
+				"subdeparts": [
+					{
+						"id": "345e7c71-1e6c-44b9-aaec-d4903c880f81",
+						"parentid": "cc4612d4-b335-4c3e-bbd5-bb1733829bdb",
+						"level": 3,
+						"name": "test1",
+						"iscampus": false,
+						"subdeparts": [],
+						"issub": false,
+						"tel": "",
+						"leader": "",
+						"address": "",
+						"subemps": []
+					}
+				],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "c400e7ef-c1c7-4615-8ef3-00e44e2961b0",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "0c15cb8d-8cc7-4b98-a695-80f9b2045378",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM测试",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "5e41b115-a09a-4c87-83f6-9a33617a48c7",
+				"parentid": "0c15cb8d-8cc7-4b98-a695-80f9b2045378",
+				"level": 2,
+				"name": "PM核算部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "41565406-1006-4cef-a13e-22c2e91de684",
+				"name": "cehhi",
+				"sex": 2,
+				"serial": "E0000135",
+				"status": 1,
+				"departid": "0c15cb8d-8cc7-4b98-a695-80f9b2045378",
+				"pinyin": "cehhi",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "0c15cb8d-8cc7-4b98-a695-80f9b2045378",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "83d71d29-e6c7-4a4c-baad-7f00a9143e94",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM测试1",
+		"iscampus": false,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "cb368724-d9bb-4458-8313-25216d112491",
+				"name": "的的的",
+				"sex": 2,
+				"serial": "E0000130",
+				"status": 1,
+				"departid": "83d71d29-e6c7-4a4c-baad-7f00a9143e94",
+				"pinyin": "DDD",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201808/6ff8c4a5ee4140509a09dc3f8a83b579.png"
+			}, {
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "83d71d29-e6c7-4a4c-baad-7f00a9143e94",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "174350ec-2b45-4288-85df-84cebfd19fc5",
+				"name": "张洒",
+				"sex": 2,
+				"serial": "E0000120",
+				"status": 1,
+				"departid": "83d71d29-e6c7-4a4c-baad-7f00a9143e94",
+				"pinyin": "ZS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "04da25c0-f2d1-4fbb-9c36-84ae15c33365",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "pm测试2（勿动）",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "80dd4697-7b66-47b0-b18b-0d8f6bc7931f",
+				"name": "e",
+				"sex": 2,
+				"serial": "E0000124",
+				"status": 1,
+				"departid": "04da25c0-f2d1-4fbb-9c36-84ae15c33365",
+				"pinyin": "e",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "174350ec-2b45-4288-85df-84cebfd19fc5",
+				"name": "张洒",
+				"sex": 2,
+				"serial": "E0000120",
+				"status": 1,
+				"departid": "04da25c0-f2d1-4fbb-9c36-84ae15c33365",
+				"pinyin": "ZS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "878b8fec-2142-4836-a342-f822d2c2b7a4",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM测试2校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "878b8fec-2142-4836-a342-f822d2c2b7a4",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "174350ec-2b45-4288-85df-84cebfd19fc5",
+				"name": "张洒",
+				"sex": 2,
+				"serial": "E0000120",
+				"status": 1,
+				"departid": "878b8fec-2142-4836-a342-f822d2c2b7a4",
+				"pinyin": "ZS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "9811c06d-250b-48b1-a268-557e01b175d3",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM测试3（勿动）",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "b2b83a99-8371-4bd6-ba73-03f62161ee01",
+				"name": "333",
+				"sex": 1,
+				"serial": "E0000146",
+				"status": 1,
+				"departid": "9811c06d-250b-48b1-a268-557e01b175d3",
+				"pinyin": "333",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "5711cd87-e62e-42ad-88ee-7917e1717f44",
+				"name": "cce1",
+				"sex": 1,
+				"serial": "E0000020",
+				"status": 1,
+				"departid": "9811c06d-250b-48b1-a268-557e01b175d3",
+				"pinyin": "cce1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "174350ec-2b45-4288-85df-84cebfd19fc5",
+				"name": "张洒",
+				"sex": 2,
+				"serial": "E0000120",
+				"status": 1,
+				"departid": "9811c06d-250b-48b1-a268-557e01b175d3",
+				"pinyin": "ZS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "fcdd533d-2308-4666-8248-eb423e6896e3",
+				"name": "44",
+				"sex": 1,
+				"serial": "E0000123",
+				"status": 1,
+				"departid": "9811c06d-250b-48b1-a268-557e01b175d3",
+				"pinyin": "44",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "747be29c-46e7-405d-9e05-7ab24af6bde4",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "pm测试4（勿动）",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "f29d1512-07ac-4d0c-9d02-489cf8fd7170",
+				"name": "6",
+				"sex": 2,
+				"serial": "E0000132",
+				"status": 1,
+				"departid": "747be29c-46e7-405d-9e05-7ab24af6bde4",
+				"pinyin": "6",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "53d7f221-6649-4216-b640-5b1beaf51fbb",
+				"name": "e3333",
+				"sex": 2,
+				"serial": "E0000129",
+				"status": 1,
+				"departid": "747be29c-46e7-405d-9e05-7ab24af6bde4",
+				"pinyin": "e3333",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "174350ec-2b45-4288-85df-84cebfd19fc5",
+				"name": "张洒",
+				"sex": 2,
+				"serial": "E0000120",
+				"status": 1,
+				"departid": "747be29c-46e7-405d-9e05-7ab24af6bde4",
+				"pinyin": "ZS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "904b7518-2604-46e1-b0f1-18699530c896",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM测试6（勿动）",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "45fd0670-0f9e-4a1a-8886-bb362f320fc2",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM课消校区1",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "2bb0140a-9df7-410a-8f69-40079fa077fc",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM课消校区2",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "733ccd29-01cb-4d34-9780-e0599b68df7e",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "PM校区测试（勿动）",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "47692d49-315f-43d8-9891-8b0dc407516d",
+				"name": "张笑笑",
+				"sex": 1,
+				"serial": "E0000163",
+				"status": 1,
+				"departid": "733ccd29-01cb-4d34-9780-e0599b68df7e",
+				"pinyin": "ZXX",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "5e747b00-9138-46a1-ab5d-09529528f687",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "sds",
+		"iscampus": false,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "7ad510e2-e92c-4890-8756-2226bbbdef57",
+				"name": "张三",
+				"sex": 1,
+				"serial": "E0000128",
+				"status": 1,
+				"departid": "5e747b00-9138-46a1-ab5d-09529528f687",
+				"pinyin": "ZS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "53e85f83-b413-44e8-b71d-2c637f9af306",
+				"name": "李四三",
+				"sex": 1,
+				"serial": "E0000143",
+				"status": 1,
+				"departid": "5e747b00-9138-46a1-ab5d-09529528f687",
+				"pinyin": "LSS",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201809/9f79d44779f845c2a0a90c980b31f5e3.png"
+			}, {
+				"id": "58f47dfe-68cd-495e-87b1-8fc4f81e574e",
+				"name": "cy测试1",
+				"sex": 1,
+				"serial": "E0000117",
+				"status": 1,
+				"departid": "5e747b00-9138-46a1-ab5d-09529528f687",
+				"pinyin": "cyCS1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "6cd4f244-e4a1-4160-8b49-afa669cd396e",
+				"name": "116666",
+				"sex": 1,
+				"serial": "E0000118",
+				"status": 1,
+				"departid": "5e747b00-9138-46a1-ab5d-09529528f687",
+				"pinyin": "116666",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "13d4229a-c33d-4359-af2b-bc52fe9121b4",
+				"name": "白兰",
+				"sex": 2,
+				"serial": "E0000149",
+				"status": 1,
+				"departid": "5e747b00-9138-46a1-ab5d-09529528f687",
+				"pinyin": "BL",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "0e2bb7be-b6c7-439f-b919-e6f361b454f2",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "smarttest1",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "16440201-2714-432b-9095-4cc7ad9b3048",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "smarttest1123",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "c4560b99-7401-4bab-93b3-da60cab82f16",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "smarttest1的",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "c39a6592-20ec-48f1-9bf5-83cb2c1d2c14",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "test111",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "b13302dd-1bb4-4c80-ab8f-1f5f11b096b8",
+				"name": "test校区老师1",
+				"sex": 1,
+				"serial": "E0000053",
+				"status": 1,
+				"departid": "c39a6592-20ec-48f1-9bf5-83cb2c1d2c14",
+				"pinyin": "testJOLS1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "2602334e-36c8-4b75-831d-bac92ebeff3f",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "Toby校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "32af74ef-eb7e-45bd-a417-7b80020a07bd",
+				"parentid": "2602334e-36c8-4b75-831d-bac92ebeff3f",
+				"level": 2,
+				"name": "Toby部门",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "031015b3-c2c9-45ef-9e0b-ac2dbd6544c8",
+						"name": "Toby",
+						"sex": 1,
+						"serial": "E0000051",
+						"status": 1,
+						"departid": "32af74ef-eb7e-45bd-a417-7b80020a07bd",
+						"pinyin": "Toby",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "5097a4d1-0a18-4bd8-8ae4-8ec537544fb8",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "爱奇艺",
+		"iscampus": false,
+		"subdeparts": [
+			{
+				"id": "fe286418-0297-4a06-9258-fd7ffc458d46",
+				"parentid": "5097a4d1-0a18-4bd8-8ae4-8ec537544fb8",
+				"level": 2,
+				"name": "爱奇艺校区",
+				"iscampus": true,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "cdcc34d5-2ec5-4a66-ad68-0115eee01162",
+						"name": "谢",
+						"sex": 1,
+						"serial": "E0000147",
+						"status": 1,
+						"departid": "fe286418-0297-4a06-9258-fd7ffc458d46",
+						"pinyin": "X",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}, {
+						"id": "37e86d4e-d245-412d-ba97-3d36b8460385",
+						"name": "谢",
+						"sex": 1,
+						"serial": "E0000148",
+						"status": 1,
+						"departid": "fe286418-0297-4a06-9258-fd7ffc458d46",
+						"pinyin": "X",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "994122f5-e434-4608-acca-9b3425279158",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "巴溪洲校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "4008005291",
+		"leader": "周校长",
+		"address": "芯诚科技园",
+		"subemps": [
+			{
+				"id": "4ff4977d-ee80-4e41-9894-0d8553843613",
+				"name": "营收",
+				"sex": 1,
+				"serial": "E0000039",
+				"status": 1,
+				"departid": "994122f5-e434-4608-acca-9b3425279158",
+				"pinyin": "YS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "c3c3ca33-ab35-4889-8c56-5fb00250480c",
+				"name": "项弘英",
+				"sex": 1,
+				"serial": "E0000025",
+				"status": 1,
+				"departid": "994122f5-e434-4608-acca-9b3425279158",
+				"pinyin": "XHY",
+				"photo": "//thirdwx.qlogo.cn/mmopen/grRqNEbAvcxialEtHSpZJy9wUB15dO9ib8yrDbCaukfoJ5gG1qpiaIxVB4arwCLT1fibVhbxdTqIPYPF2iay1bGz1nTvf1BSRte2k/132"
+			}, {
+				"id": "4ba11313-e362-410f-b3ff-748be0b093be",
+				"name": "老师1",
+				"sex": 1,
+				"serial": "E0000026",
+				"status": 1,
+				"departid": "994122f5-e434-4608-acca-9b3425279158",
+				"pinyin": "LS1",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "c9f3b045-b45d-4124-ad35-b6b9a92ab14e",
+				"name": "课消",
+				"sex": 1,
+				"serial": "E0000040",
+				"status": 1,
+				"departid": "994122f5-e434-4608-acca-9b3425279158",
+				"pinyin": "KX",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "ca1b2c02-c033-4e41-9a9b-bbcbcd5c91d9",
+				"name": "运营指标",
+				"sex": 1,
+				"serial": "E0000041",
+				"status": 1,
+				"departid": "994122f5-e434-4608-acca-9b3425279158",
+				"pinyin": "YYZB",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "7d58783a-8310-421e-85d3-6fe8780ab9ca",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试211",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "4e639123-efec-49a7-9e5c-b18b16f4a211",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试55555555",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "057c4c77-91b6-40ef-a785-0a65c5b0b8a8",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试报表校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "86f20584-0ba2-4766-a998-345b48c59bef",
+				"name": "陆树铭",
+				"sex": 1,
+				"serial": "E0000121",
+				"status": 1,
+				"departid": "057c4c77-91b6-40ef-a785-0a65c5b0b8a8",
+				"pinyin": "LSM",
+				"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+			}
+		]
+	}, {
+		"id": "64e0ba81-9ad7-452a-a2fc-d5f5568d1226",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试过期时间",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "4c60eb25-ae10-4607-a8fe-52136ee88ad2",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试过期时间2",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "c72edfdd-7d12-4ac9-b3f7-25f1a521132e",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试无过期时间",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "3e223072-b8af-44c5-a5a5-1e3524435e93",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "4e99bf3e-4755-40db-81ca-a9aa204fc8e7",
+				"name": "Bothess",
+				"sex": 1,
+				"serial": "E0000018",
+				"status": 1,
+				"departid": "3e223072-b8af-44c5-a5a5-1e3524435e93",
+				"pinyin": "Bothess",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201807/f6803c4c2c4243c1bbad80757dd70bd6.png"
+			}, {
+				"id": "95028636-d706-408d-b8ca-f5178a368b9c",
+				"name": "郭垣信",
+				"sex": 1,
+				"serial": "E0000023",
+				"status": 1,
+				"departid": "3e223072-b8af-44c5-a5a5-1e3524435e93",
+				"pinyin": "GYX",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "6a2aa2b2-97a4-4c73-aecf-fa17760cbed8",
+				"name": "林霖",
+				"sex": 2,
+				"serial": "E0000024",
+				"status": 1,
+				"departid": "3e223072-b8af-44c5-a5a5-1e3524435e93",
+				"pinyin": "LL",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "99af8f00-272f-408c-98c4-0998f0cea258",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试校区233",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "ddb28ba2-e71e-4266-beea-c99441f26bb3",
+				"parentid": "99af8f00-272f-408c-98c4-0998f0cea258",
+				"level": 2,
+				"name": "测试部门233",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "1",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "68a6a986-96ce-4331-b63e-04740593ddfd",
+				"name": "张三",
+				"sex": 2,
+				"serial": "E0000050",
+				"status": 1,
+				"departid": "99af8f00-272f-408c-98c4-0998f0cea258",
+				"pinyin": "ZS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "da8c4d62-9dc1-41e4-a460-f607a8d6ba4b",
+				"name": "策凝思",
+				"sex": 1,
+				"serial": "E0000046",
+				"status": 1,
+				"departid": "99af8f00-272f-408c-98c4-0998f0cea258",
+				"pinyin": "CNS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "380e3126-eb3c-4ac2-9a4e-db14611fda02",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试新增搜索",
+		"iscampus": false,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "4ccf4db5-ae5a-4f53-a3cc-e3ac0b7067d2",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "测试营收报表A校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "长沙总校",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "9dfbf497-478a-4869-a6d4-ea9d634ada0d",
+				"parentid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"level": 2,
+				"name": "总校财务部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "5ccfaa18-dc5a-445a-a52e-3f0093b746b5",
+						"name": "张仲铭",
+						"sex": 1,
+						"serial": "E0000016",
+						"status": 1,
+						"departid": "9dfbf497-478a-4869-a6d4-ea9d634ada0d",
+						"pinyin": "ZZM",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}, {
+						"id": "095b6c1e-968f-49cd-ac47-d86b0490efd1",
+						"name": "吴氏",
+						"sex": 1,
+						"serial": "E0000115",
+						"status": 1,
+						"departid": "9dfbf497-478a-4869-a6d4-ea9d634ada0d",
+						"pinyin": "WS",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}, {
+						"id": "66e4ffd9-9e7a-4e23-9362-f7cdcca25fde",
+						"name": "袁星",
+						"sex": 1,
+						"serial": "E0000004",
+						"status": 0,
+						"departid": "9dfbf497-478a-4869-a6d4-ea9d634ada0d",
+						"pinyin": "YX",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}, {
+				"id": "6d158e0d-55cf-4518-9114-2a4d8b8115ca",
+				"parentid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"level": 2,
+				"name": "总校后勤部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "a8158388-9e19-4315-95b6-032a4fee36b9",
+				"parentid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"level": 2,
+				"name": "总校教务部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "001acbf1-570d-495c-8d43-d06e975557df",
+						"name": "白离",
+						"sex": 1,
+						"serial": "E0000009",
+						"status": 1,
+						"departid": "a8158388-9e19-4315-95b6-032a4fee36b9",
+						"pinyin": "BL",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}, {
+						"id": "fe890f8a-14c7-43aa-acf6-f68c82e043f5",
+						"name": "何晓萍",
+						"sex": 2,
+						"serial": "E0000105",
+						"status": 1,
+						"departid": "a8158388-9e19-4315-95b6-032a4fee36b9",
+						"pinyin": "HXP",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}
+				]
+			}, {
+				"id": "1b54a0d6-957e-446c-8c72-53122dae77be",
+				"parentid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"level": 2,
+				"name": "总校教学部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "78d1c1b2-3856-47da-b105-08043da6d5bb",
+						"name": "尔雅",
+						"sex": 2,
+						"serial": "E0000098",
+						"status": 1,
+						"departid": "1b54a0d6-957e-446c-8c72-53122dae77be",
+						"pinyin": "EY",
+						"photo": "//thirdwx.qlogo.cn/mmopen/o6DUWqmreEYQ03OCBxpZW1reMWRAELBddia4gA2G7wqwEuYNYVmFgDGCWWdH2TId0I8ENSG8c3hHR2TIroicox4Zt1SDST7w5L/132"
+					}, {
+						"id": "b9732559-ba0a-4514-84a0-d80719f2f608",
+						"name": "温文",
+						"sex": 1,
+						"serial": "E0000113",
+						"status": 1,
+						"departid": "1b54a0d6-957e-446c-8c72-53122dae77be",
+						"pinyin": "WW",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}, {
+				"id": "0e83be33-0435-41da-ba3d-82ce9427c539",
+				"parentid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"level": 2,
+				"name": "总校市场部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "c8459917-02e1-4c85-816d-66f8f9248a84",
+						"name": "谢渊",
+						"sex": 2,
+						"serial": "E0000017",
+						"status": 1,
+						"departid": "0e83be33-0435-41da-ba3d-82ce9427c539",
+						"pinyin": "XY",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}
+				]
+			}, {
+				"id": "48da45ca-c35d-440c-b6da-67e7bae0406f",
+				"parentid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"level": 2,
+				"name": "总校行政部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "34b283b5-53c5-4b92-9236-092d64acdb17",
+				"name": "员",
+				"sex": 1,
+				"serial": "E0000030",
+				"status": 1,
+				"departid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"pinyin": "Y",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "804b2c24-3c1b-45a7-bac6-48f1157a5ca0",
+				"name": "去",
+				"sex": 1,
+				"serial": "E0000033",
+				"status": 1,
+				"departid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"pinyin": "Q",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "567a970b-85ed-4d86-8417-5ca7e1d17498",
+				"name": "瑟解决",
+				"sex": 2,
+				"serial": "E0000031",
+				"status": 1,
+				"departid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"pinyin": "SJJ",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "b7231b02-b5f8-4ebc-98ac-c1086dea1a51",
+				"name": "保小岱",
+				"sex": 2,
+				"serial": "E0000003",
+				"status": 0,
+				"departid": "e73dd26f-3ce9-478a-87f0-8a4e0545abd4",
+				"pinyin": "BXD",
+				"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIzHCq8eXBF7DkQyewxF2w8NJIGwMg7cY9sibXN5Lc8pEOqpncZ96KicIt6deOz7d9JIpqzJzwfwcnmpX9ztbyXTHK/132"
+			}
+		]
+	}, {
+		"id": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "常德校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "b50c8ad7-cc92-4de3-9dad-c617270c3ff9",
+				"parentid": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+				"level": 2,
+				"name": "常德财务部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "83105e0e-1100-4326-a802-842157a21799",
+						"name": "张敏君",
+						"sex": 2,
+						"serial": "E0000096",
+						"status": 1,
+						"departid": "b50c8ad7-cc92-4de3-9dad-c617270c3ff9",
+						"pinyin": "ZMJ",
+						"photo": "//thirdwx.qlogo.cn/mmopen/o6DUWqmreEZ2ibame07lrvhV99yuib8zFmtKnDXWfgTibvljfObjKCo1YIHeVibNx3whYWchhxnBNhIvOD5p9PoTQ08pcibLAianIg/132"
+					}
+				]
+			}, {
+				"id": "e075a54c-7c32-48b1-9c11-5b5c9f1456c0",
+				"parentid": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+				"level": 2,
+				"name": "常德教务部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "32596269-45b3-4dbc-aa77-6b9f0429d456",
+						"name": "李妮",
+						"sex": 2,
+						"serial": "E0000097",
+						"status": 1,
+						"departid": "e075a54c-7c32-48b1-9c11-5b5c9f1456c0",
+						"pinyin": "LN",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}
+				]
+			}, {
+				"id": "5ab5a7ac-abc5-4210-9421-f8daf8673383",
+				"parentid": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+				"level": 2,
+				"name": "常德市场部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "18570613555",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "9a80602c-0eab-48e0-8064-f0a785d90a3d",
+						"name": "刘柏霖",
+						"sex": 1,
+						"serial": "E0000095",
+						"status": 1,
+						"departid": "5ab5a7ac-abc5-4210-9421-f8daf8673383",
+						"pinyin": "LBL",
+						"photo": "//thirdwx.qlogo.cn/mmopen/o6DUWqmreEYcpGa82Nk0H4yXic6iccQeb4quAeia9h3ozDKUFc6iciaC18tJrJ7FGE7mrlAhhGsaia58xE71jRjLhcKVVGu6x2rI68/132"
+					}
+				]
+			}, {
+				"id": "eca9c66f-49d8-456d-b5f7-36749b3db71e",
+				"parentid": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+				"level": 2,
+				"name": "常德行政部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "68de6a2a-37a9-4506-ba3a-e511b6be1e43",
+						"name": "周大人",
+						"sex": 1,
+						"serial": "E0000038",
+						"status": 1,
+						"departid": "eca9c66f-49d8-456d-b5f7-36749b3db71e",
+						"pinyin": "ZDR",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "常德的地址",
+		"subemps": [
+			{
+				"id": "9df13444-3152-4f67-ac1d-1ba9b896ed46",
+				"name": "大幅度发",
+				"sex": 1,
+				"serial": "E0000035",
+				"status": 1,
+				"departid": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+				"pinyin": "DFDF",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "9d091657-c72c-4871-8e41-278d521b0e1f",
+				"name": "baocy",
+				"sex": 1,
+				"serial": "E0000055",
+				"status": 1,
+				"departid": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+				"pinyin": "baocy",
+				"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIzHCq8eXBF7DkQyewxF2w8NJIGwMg7cY9sibXN5Lc8pEOqpncZ96KicIt6deOz7d9JIpqzJzwfwcnmpX9ztbyXTHK/132"
+			}, {
+				"id": "06a76017-9aa8-4507-9030-e2f996c28342",
+				"name": "刘程俊",
+				"sex": 1,
+				"serial": "E0000100",
+				"status": 1,
+				"departid": "b85046a2-a760-46dd-b74e-0a733b2950ad",
+				"pinyin": "LCJ",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "f909c88f-d5c3-42fc-b443-c4f0ea40fced",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "创授校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "501b016a-f589-4524-ba42-25a4a73c1fa7",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "第101个部门",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "0c751ab7-f942-43dc-8caa-652207914338",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "筏法久琉中学",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "e98454ab-b086-487f-bc97-a9d3235c39a0",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "汉能中学",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "8228bbc1-04c2-4f53-952f-eecd4225b78c",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "黑玫瑰私立学院",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南湖南",
+		"subemps": []
+	}, {
+		"id": "20a29dd9-902b-4973-91f8-65f0e0fc01ac",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "集团监事会",
+		"iscampus": false,
+		"subdeparts": [
+			{
+				"id": "e64a1c79-3abf-4a8c-8b11-5362296e8893",
+				"parentid": "20a29dd9-902b-4973-91f8-65f0e0fc01ac",
+				"level": 2,
+				"name": "综合审计部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "0677ca15-c709-4b1f-bd53-69878be48b4a",
+						"name": "易秋良",
+						"sex": 1,
+						"serial": "E0000108",
+						"status": 1,
+						"departid": "e64a1c79-3abf-4a8c-8b11-5362296e8893",
+						"pinyin": "YQL",
+						"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201806/3bf8a5158c4b4c1b97a4b7b061b33f40.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "6bec7b1d-89fb-4edc-a9f2-8b5633cfd45c",
+				"name": "都郡河",
+				"sex": 2,
+				"serial": "E0000099",
+				"status": 1,
+				"departid": "20a29dd9-902b-4973-91f8-65f0e0fc01ac",
+				"pinyin": "DJH",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201806/a52880c13fab49a9a34babe63c14410d.png"
+			}, {
+				"id": "d9c56f2a-4d72-4ab5-bc02-d13dfa93e03d",
+				"name": "曾天权",
+				"sex": 1,
+				"serial": "E0000011",
+				"status": 1,
+				"departid": "20a29dd9-902b-4973-91f8-65f0e0fc01ac",
+				"pinyin": "CTQ",
+				"photo": "//thirdwx.qlogo.cn/mmopen/gR6hX2eeCIwqyibLFZpOnLGnF7Y2ecn6BlUic8Ozwy4Je7HsWWLhqCukwicqHNFkL1WJOdj2nIO5LIFjYsNSSlOo0d4NmicPoYfm/132"
+			}
+		]
+	}, {
+		"id": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "集团理事会",
+		"iscampus": false,
+		"subdeparts": [
+			{
+				"id": "7595ad72-ea05-4376-b741-b8a88b53b1b4",
+				"parentid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"level": 2,
+				"name": "集团数据部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "3cb28d68-0170-420a-8cbd-3d0343361f21",
+						"name": "林天枢",
+						"sex": 1,
+						"serial": "E0000093",
+						"status": 1,
+						"departid": "7595ad72-ea05-4376-b741-b8a88b53b1b4",
+						"pinyin": "LTS",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}, {
+				"id": "20842ea4-210d-4e84-93a4-34d9f49e5a8f",
+				"parentid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"level": 2,
+				"name": "集团组织部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "1014841d-f52a-42bb-8f79-1cdbb44ce9cb",
+						"name": "萧文华",
+						"sex": 2,
+						"serial": "E0000027",
+						"status": 1,
+						"departid": "20842ea4-210d-4e84-93a4-34d9f49e5a8f",
+						"pinyin": "XWH",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}, {
+						"id": "7ebdec01-a464-4525-9914-4e95ecc18229",
+						"name": "傅凌华",
+						"sex": 1,
+						"serial": "E0000007",
+						"status": 1,
+						"departid": "20842ea4-210d-4e84-93a4-34d9f49e5a8f",
+						"pinyin": "FLH",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}, {
+						"id": "f178831a-5da6-4691-8cc6-7edc5737e9e7",
+						"name": "李柒",
+						"sex": 2,
+						"serial": "E0000114",
+						"status": 1,
+						"departid": "20842ea4-210d-4e84-93a4-34d9f49e5a8f",
+						"pinyin": "LQ",
+						"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201807/83998b6457c849829a928bf3c5cdf643.png"
+					}
+				]
+			}, {
+				"id": "9062e96b-fb78-48a5-be17-032365ab30fa",
+				"parentid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"level": 2,
+				"name": "市场培训校",
+				"iscampus": true,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "1989d9cb-d1f7-4b90-b5d4-3732dee8a79c",
+				"parentid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"level": 2,
+				"name": "运营培训校",
+				"iscampus": true,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "18827013161",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "f24829c0-03fb-4ea0-b069-8dfb742357d0",
+						"name": "陈商商",
+						"sex": 2,
+						"serial": "E0000005",
+						"status": 1,
+						"departid": "1989d9cb-d1f7-4b90-b5d4-3732dee8a79c",
+						"pinyin": "CSS",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}, {
+						"id": "bfc22645-f0ad-4940-904a-db1ca586c252",
+						"name": "朱会",
+						"sex": 1,
+						"serial": "E0000116",
+						"status": 1,
+						"departid": "1989d9cb-d1f7-4b90-b5d4-3732dee8a79c",
+						"pinyin": "ZH",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}, {
+						"id": "828d3e81-1e20-4b2a-872f-e7461a04876a",
+						"name": "Philip Co",
+						"sex": 1,
+						"serial": "E0000008",
+						"status": 1,
+						"departid": "1989d9cb-d1f7-4b90-b5d4-3732dee8a79c",
+						"pinyin": "Philip Co",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "38154a27-359b-4c97-bc2e-098ee1c31724",
+				"name": "李望舒",
+				"sex": 2,
+				"serial": "E0000094",
+				"status": 1,
+				"departid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"pinyin": "LWS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "923ed2c5-a6e3-4b5f-9e43-0ed4780a6fd6",
+				"name": "万金有",
+				"sex": 2,
+				"serial": "E0000019",
+				"status": 1,
+				"departid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"pinyin": "MJY",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "eff5d57a-f154-4b79-b845-472421fbb0f7",
+				"name": "方任华",
+				"sex": 1,
+				"serial": "E0000106",
+				"status": 1,
+				"departid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"pinyin": "FRH",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}, {
+				"id": "68ecc399-3758-4446-8351-7d110b9eca01",
+				"name": "舒星河",
+				"sex": 2,
+				"serial": "E0000006",
+				"status": 1,
+				"departid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"pinyin": "SXH",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201806/375a95b2bd384cc598c9ceb796e69efe.png"
+			}, {
+				"id": "b2bc3bd3-5e92-4e9b-92de-97dd28ca986a",
+				"name": "戴玉衡",
+				"sex": 2,
+				"serial": "E0000010",
+				"status": 1,
+				"departid": "424ca5f4-0811-4c4d-a1ff-67458a40c833",
+				"pinyin": "DYH",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201807/ac4714ab3d3b4bf685f6504a9b9e0dca.png"
+			}
+		]
+	}, {
+		"id": "75d89921-7b0f-4127-8667-b53c75ca8a25",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "金海中学",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "36a94cf6-75cd-4b3b-8e6e-209295bcefe9",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "两仪校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "fc49f94e-e47e-41b4-8b63-89be1a82267d",
+				"parentid": "36a94cf6-75cd-4b3b-8e6e-209295bcefe9",
+				"level": 2,
+				"name": "两仪教学部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "1f2de1ef-ab83-4c85-b4b4-f135156be467",
+						"name": "Fenlix",
+						"sex": 1,
+						"serial": "E0000021",
+						"status": 1,
+						"departid": "fc49f94e-e47e-41b4-8b63-89be1a82267d",
+						"pinyin": "Fenlix",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "9a23e1ac-ab9d-4572-a628-1e11cb939d94",
+				"name": "闻天枢",
+				"sex": 1,
+				"serial": "E0000014",
+				"status": 1,
+				"departid": "36a94cf6-75cd-4b3b-8e6e-209295bcefe9",
+				"pinyin": "WTS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "dcafb062-803a-4acb-8fb1-ba3c8ffb445a",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "嗯嗯",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "24d1c851-0b10-4e6b-93fe-2c0ca7595a75",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "宁乡金海中学",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "c30c1f82-d194-4691-af31-4ed3206cc571",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "潜龙校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "b2732510-c80d-4925-b9f3-bebd2cb37497",
+				"parentid": "c30c1f82-d194-4691-af31-4ed3206cc571",
+				"level": 2,
+				"name": "潜龙饮食部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "11aea757-bfe6-4853-8d4e-89580a97a9de",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "青竹湖校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "7b9b1f26-ca1f-4ad8-ade1-fcd4f843c922",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "授权",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "5282cb6d-c262-4697-a0fa-cff51a23c712",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "太阳山校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "3234a71f-65b3-42eb-94c6-b3c98ba2090b",
+				"name": "李白",
+				"sex": 1,
+				"serial": "E0000001",
+				"status": 1,
+				"departid": "5282cb6d-c262-4697-a0fa-cff51a23c712",
+				"pinyin": "LB",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "69708d95-939f-4090-aebd-efb0c5766828",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "我的大校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "244f6149-e2f7-4779-9e5b-49b11fb25773",
+				"name": "nobodies",
+				"sex": 1,
+				"serial": "E0000058",
+				"status": 1,
+				"departid": "69708d95-939f-4090-aebd-efb0c5766828",
+				"pinyin": "nobodies",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "f6556b20-b64a-4b02-bcd5-5785780a5943",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "香榭大道校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "0379a53e-4bd8-4fb7-876f-75f6f3b09097",
+				"parentid": "f6556b20-b64a-4b02-bcd5-5785780a5943",
+				"level": 2,
+				"name": "北美国际部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "6e37b0c8-9060-44cf-864e-795c6ddde5dd",
+				"parentid": "f6556b20-b64a-4b02-bcd5-5785780a5943",
+				"level": 2,
+				"name": "香榭教学部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "4ebf2f77-f956-4ce4-90e9-964a5c84ee7f",
+				"parentid": "f6556b20-b64a-4b02-bcd5-5785780a5943",
+				"level": 2,
+				"name": "香榭饮食部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "587646cd-e4d0-4d49-afd5-b22f5a4f1fcd",
+				"name": "赵开阳",
+				"sex": 1,
+				"serial": "E0000013",
+				"status": 1,
+				"departid": "f6556b20-b64a-4b02-bcd5-5785780a5943",
+				"pinyin": "ZKY",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "fb52ea41-edc0-48ed-9d0b-b3dfa1afa701",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "780c0ac9-4263-4b42-802c-6e7002b2626d",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "新梦想校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "528ac414-d6d6-4cda-81d5-09a984a8a0ed",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "新新校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "ace64cb4-1f1b-42ff-9957-3f825a3c8fb1",
+				"parentid": "528ac414-d6d6-4cda-81d5-09a984a8a0ed",
+				"level": 2,
+				"name": "A部门",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "5cc4b5da-b0a3-440d-9265-e7a4b7614dc7",
+				"parentid": "528ac414-d6d6-4cda-81d5-09a984a8a0ed",
+				"level": 2,
+				"name": "B部门",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "5255fec4-b8ab-49ac-8a91-e2a159ff0e1c",
+				"name": "新新人类",
+				"sex": 2,
+				"serial": "E0000159",
+				"status": 1,
+				"departid": "528ac414-d6d6-4cda-81d5-09a984a8a0ed",
+				"pinyin": "XXRL",
+				"photo": "//cdn01.xiaogj.com/file/59c5a22ab4f6425caddb2bf0c26e47e3/201809/0c1a5eb7a5544bb2b43fb186d4ef1cb4.png"
+			}
+		]
+	}, {
+		"id": "22f870f3-7e47-4ab7-8e00-02c72979a948",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "血碧校区",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "3d71bb36-3dce-45b9-91a8-f6e0aed8437d",
+				"name": "越瑶光",
+				"sex": 2,
+				"serial": "E0000012",
+				"status": 1,
+				"departid": "22f870f3-7e47-4ab7-8e00-02c72979a948",
+				"pinyin": "YYG",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "1c784e28-feaf-4078-9dc0-2a29098455af",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "丫丫",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "b08e08b6-2ddf-43e7-911e-a342776e7084",
+				"parentid": "1c784e28-feaf-4078-9dc0-2a29098455af",
+				"level": 2,
+				"name": "123",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "47771e8f-629a-4f24-b614-5316d9b3db5c",
+				"name": "啦啦啦",
+				"sex": 2,
+				"serial": "E0000165",
+				"status": 1,
+				"departid": "1c784e28-feaf-4078-9dc0-2a29098455af",
+				"pinyin": "LLL",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}, {
+		"id": "775c25c0-c815-4aed-bd31-1ccbc6539bc2",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "月亮岛校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "107f6914-aa5e-4b13-8b04-13df2b41b29a",
+				"parentid": "775c25c0-c815-4aed-bd31-1ccbc6539bc2",
+				"level": 2,
+				"name": "月亮岛后勤部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "17f6b6a6-eeeb-4bef-9840-7ce83b84e198",
+				"parentid": "775c25c0-c815-4aed-bd31-1ccbc6539bc2",
+				"level": 2,
+				"name": "月亮岛教学部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "a07566c2-4396-489c-bc9a-c5d5bc33e889",
+						"name": "啦啦啦",
+						"sex": 2,
+						"serial": "E0000171",
+						"status": 1,
+						"departid": "17f6b6a6-eeeb-4bef-9840-7ce83b84e198",
+						"pinyin": "LLL",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "e36dab9b-d7e9-4ec6-bbda-54edb09852fa",
+				"name": "小月",
+				"sex": 2,
+				"serial": "E0000154",
+				"status": 1,
+				"departid": "775c25c0-c815-4aed-bd31-1ccbc6539bc2",
+				"pinyin": "XY",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}, {
+				"id": "54f8fd72-a412-400d-a1dd-8dec49cd0f77",
+				"name": "傅天玑",
+				"sex": 1,
+				"serial": "E0000015",
+				"status": 1,
+				"departid": "775c25c0-c815-4aed-bd31-1ccbc6539bc2",
+				"pinyin": "FTJ",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "323dd5b9-7cc2-4b9f-9733-27a0a284389c",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "岳麓校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "3516e957-c562-423a-be85-f39e6d5c219a",
+				"parentid": "323dd5b9-7cc2-4b9f-9733-27a0a284389c",
+				"level": 2,
+				"name": "岳麓后勤部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "af16b816-7d30-40df-95fd-b60db49c0d21",
+						"name": "李四",
+						"sex": 1,
+						"serial": "E0000103",
+						"status": 1,
+						"departid": "3516e957-c562-423a-be85-f39e6d5c219a",
+						"pinyin": "LS",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}, {
+				"id": "cd8c58a2-f34e-4120-ae82-e7d812a5df89",
+				"parentid": "323dd5b9-7cc2-4b9f-9733-27a0a284389c",
+				"level": 2,
+				"name": "岳麓教务部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "14778a66-819f-4806-91a3-0aad32f3d303",
+						"name": "张三",
+						"sex": 1,
+						"serial": "E0000102",
+						"status": 1,
+						"departid": "cd8c58a2-f34e-4120-ae82-e7d812a5df89",
+						"pinyin": "ZS",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}, {
+				"id": "09b84368-aa48-4b54-94d9-6ac60f31f0fe",
+				"parentid": "323dd5b9-7cc2-4b9f-9733-27a0a284389c",
+				"level": 2,
+				"name": "岳麓老年教学组",
+				"iscampus": false,
+				"subdeparts": [
+					{
+						"id": "d4133eaf-b540-46ea-8315-53f8243ad42a",
+						"parentid": "09b84368-aa48-4b54-94d9-6ac60f31f0fe",
+						"level": 3,
+						"name": "岳麓老年组织队",
+						"iscampus": false,
+						"subdeparts": [
+							{
+								"id": "98f1d893-2ead-4aca-a135-40700de3fb0c",
+								"parentid": "d4133eaf-b540-46ea-8315-53f8243ad42a",
+								"level": 4,
+								"name": "岳麓老年活动队",
+								"iscampus": false,
+								"subdeparts": [],
+								"issub": false,
+								"tel": "",
+								"leader": "",
+								"address": "",
+								"subemps": []
+							}
+						],
+						"issub": false,
+						"tel": "",
+						"leader": "",
+						"address": "",
+						"subemps": []
+					}
+				],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "fc589aeb-77a4-4bf3-9d17-41eafa14ba0b",
+				"parentid": "323dd5b9-7cc2-4b9f-9733-27a0a284389c",
+				"level": 2,
+				"name": "岳麓市场部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": []
+			}, {
+				"id": "6a381ace-cf6f-4501-ab84-b63847642534",
+				"parentid": "323dd5b9-7cc2-4b9f-9733-27a0a284389c",
+				"level": 2,
+				"name": "岳麓饮食部",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "dd8abcf0-62cf-4eaa-a68e-527098ac6844",
+						"name": "刘小丽",
+						"sex": 2,
+						"serial": "E0000101",
+						"status": 1,
+						"departid": "6a381ace-cf6f-4501-ab84-b63847642534",
+						"pinyin": "LXL",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": []
+	}, {
+		"id": "bbcc8f0d-d3f9-443a-b39b-772ccb0d5368",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "再试一下",
+		"iscampus": true,
+		"subdeparts": [],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "d26409f9-20c7-4655-b665-c9a8cbb0079d",
+				"name": "我的员工",
+				"sex": 1,
+				"serial": "E0000057",
+				"status": 1,
+				"departid": "bbcc8f0d-d3f9-443a-b39b-772ccb0d5368",
+				"pinyin": "WDYG",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+			}
+		]
+	}, {
+		"id": "0acb09a5-867c-4ea4-aea7-887618f5d47e",
+		"parentid": "59c5a22a-b4f6-425c-addb-2bf0c26e47e3",
+		"level": 1,
+		"name": "正点校区",
+		"iscampus": true,
+		"subdeparts": [
+			{
+				"id": "b54cb6e8-b1e4-4138-b997-559a6833b52f",
+				"parentid": "0acb09a5-867c-4ea4-aea7-887618f5d47e",
+				"level": 2,
+				"name": "test",
+				"iscampus": false,
+				"subdeparts": [],
+				"issub": false,
+				"tel": "123",
+				"leader": "",
+				"address": "",
+				"subemps": [
+					{
+						"id": "28580cc8-06fd-4c3a-af5f-16aaf626a5f9",
+						"name": "Toby",
+						"sex": 1,
+						"serial": "E0000045",
+						"status": 1,
+						"departid": "b54cb6e8-b1e4-4138-b997-559a6833b52f",
+						"pinyin": "Toby",
+						"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_1_Smart.png"
+					}
+				]
+			}
+		],
+		"issub": false,
+		"tel": "",
+		"leader": "",
+		"address": "",
+		"subemps": [
+			{
+				"id": "74ab830b-c0f5-4614-b4e9-c0b043f7e3bf",
+				"name": "策洛思",
+				"sex": 2,
+				"serial": "E0000044",
+				"status": 1,
+				"departid": "0acb09a5-867c-4ea4-aea7-887618f5d47e",
+				"pinyin": "CLS",
+				"photo": "https://cdn01.xiaogj.com/uploads/smart/common/img/Teacher_2_Smart.png"
+			}
+		]
+	}
+]

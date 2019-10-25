@@ -1,0 +1,73 @@
+@import "./common/var.scss";
+@import "./common/variable.scss";
+@import "./common/mixin.scss";
+.x-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 0;
+    line-height: none;
+    text-align: center;
+    white-space: nowrap;
+    border: 1px solid $color-gray;
+    border-radius: 4px;
+    outline: 0;
+    color: $color-3;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    .x-tag-desc {
+        display: inline-block;
+        font-size: 12px;
+        margin-right: 2px;
+        vertical-align: middle;
+    }
+    &.x-tag-default {
+        color: $color-3;
+        border-color: $color-gray;
+        &.is-hover:hover{
+            color: $color-white;
+            background-color: $color-gray;
+        }
+    }
+    &.x-tag-info {
+        border-color: $color-primary1;
+        color: $color-primary1;
+        &.is-hover:hover{
+            color: $color-white;
+            background-color: $color-primary1;
+        }
+    }
+    &.x-tag-success {
+        border-color: $color-success;
+        color: $color-success;
+        &.is-hover:hover{
+            color: $color-white;
+            background-color: $color-success;
+        }
+    }
+    &.x-tag-primary {
+        border-color: $color-primary;
+        color: $color-primary;
+        &.is-hover:hover{
+            color: $color-white;
+            background-color: $color-primary;
+        }
+    }
+    &.x-tag-warning {
+        border-color: $color-warning1;
+        color: $color-warning1;
+        &.is-hover:hover{
+            color: $color-white;
+            background-color: $color-warning1;
+        }
+    }
+    &.x-tag-danger {
+        border-color: $color-danger;
+        color: $color-danger;
+        &.is-hover:hover{
+            color: $color-white;
+            background-color: $color-danger;
+        }
+    }
+    & .x-tag-close {
+        font-size: 12px;
+    }
+}
