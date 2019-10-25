@@ -19,7 +19,8 @@
     watch: {
       $route () {
         document.getElementById('qrCode').innerHTML = ''
-        let qrCodeUrl = `${window.location.origin}${window.location.pathname}demo.html${window.location.hash}`
+        let str = `${window.location.origin}${window.location.pathname}`.replace('index.html', 'demo.html')
+        let qrCodeUrl = `${str}${window.location.hash}`
         let QRCode = window.QRCode
         this.qrcode = new QRCode('qrCode', {
           text: qrCodeUrl,
