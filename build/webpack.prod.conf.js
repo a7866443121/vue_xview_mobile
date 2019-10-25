@@ -47,9 +47,7 @@ const webpackConfig = merge(baseWebpackConfig, {
       }
     }),
     new HtmlWebpackPlugin({
-      filename: process.env.NODE_ENV === 'testing'
-        ? 'index.html'
-        : config.build.index,
+      filename: 'index.html',
       template: 'index.html',
       inject: true,
       minify: {
@@ -61,9 +59,7 @@ const webpackConfig = merge(baseWebpackConfig, {
       chunks: ['app']
     }),
     new HtmlWebpackPlugin({
-      filename: process.env.NODE_ENV === 'testing'
-        ? 'demo.html'
-        : config.build.index,
+      filename: 'demo.html',
       template: 'demo.html',
       inject: true,
       minify: {
@@ -82,7 +78,7 @@ const webpackConfig = merge(baseWebpackConfig, {
       }
     ]),
     new PrerenderSpaPlugin(
-      path.join(__dirname, '../dist'),
+      path.join(__dirname, '../docs'),
       [ '/']
     )
   ]
